@@ -1,0 +1,39 @@
+html {
+  font-family: "Avenir Next", Helevetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0 auto;
+  color: aliceblue;
+  background: #333;
+}
+
+h1,
+h2 {
+  font-weight: 300;
+}
+
+footer {
+  margin-top: 30%;
+}
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+button {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  margin-top: 10%;
+  background-color: grey;
+  border: none;
+  color: aliceblue;
+  height: 5vh;
+  cursor: pointer;
+}
+
+.curentAll {
+  display: none;
+}
