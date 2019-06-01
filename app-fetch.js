@@ -85,4 +85,8 @@ fetch(url)
           myArr.currently.windSpeed
         }`;
       });
+  })
+  .catch(err => {
+    // Unsuccesfull callback for error
+    console.log("Error, something");
   });
