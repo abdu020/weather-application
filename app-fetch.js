@@ -87,6 +87,6 @@ fetch(url)
       });
   })
   .catch(err => {
-    // Unsuccesfull callback for error
+    // Unsuccesfull callback shows an error
     console.log("Error, something");
   });
